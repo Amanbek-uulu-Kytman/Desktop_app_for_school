@@ -128,7 +128,7 @@ def main(page: ft.Page):
             ], alignment="center"),
             lessons_table,
            
-            ft.Text(" \nМбанк +996 773 23 72 04", size=12, weight="bold", color=ft.colors.GREEN)  # Имя автора
+            ft.Text("Дать денег программисту Telegram: https://t.me/good_moki", size=12, weight="bold", color=ft.colors.GREEN)  # Имя автора
         ], alignment="center", horizontal_alignment="center") 
     )
 
